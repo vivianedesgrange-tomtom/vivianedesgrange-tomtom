@@ -33,6 +33,3 @@ as a Full-Stack Software engineer in the telecommunication and real-time communi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 </p>
-
-<p><img align="left" src="https://readmestats.999857.xyz/api/top-langs?username=vdesgrange&show_icons=true&theme=radical&hide=Jupyter%20Notebook,Matlab,TeX&langs_count=6&show_icons=true&locale=en&layout=compact" alt="Viviane Desgrange" />
-<img align="center" src="https://readmestats.999857.xyz/api?username=vdesgrange&show_icons=true&theme=radical&count_private=true&hide=contribs,issues&show_icons=true&locale=en" alt="Viviane Desgrange" /></p>
